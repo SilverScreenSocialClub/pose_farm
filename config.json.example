@@ -1,0 +1,7 @@
+All informations are available at https://discord.com/developers/applications
+
+{
+  "token": "your-bot-token",
+  "clientId": "your-client-id",
+  "guildId": "your-server-id"
+}
